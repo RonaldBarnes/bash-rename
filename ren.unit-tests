@@ -1,6 +1,8 @@
 #!/bin/bash
 
-## Unit tests for rename.sh
+## Unit tests for "ren"
+##
+## This file currently is just notes for the author.
 ##
 ## At the moment, requires manual checking.
 ##
