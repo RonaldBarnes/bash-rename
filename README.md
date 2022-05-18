@@ -23,6 +23,9 @@ The following is impossible to determine a desired result from:
 `ren file1.html file2.htm file3.htm` when one considers all permutations that could occur.
 
 
+The same reason why `mv *.htm *.html`, for exampe, will not work in bash.
+
+
 It is possible to achieve something close to the desired result by enclosing all parameters in quotes, thusly:
 
 `ren "*.htm" "*.html"`
