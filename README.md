@@ -1,3 +1,7 @@
+# CANCELLED:
+## bash Pathname Expansion makes desired outcome impossible
+
+
 # bash-rename
 A file rename script for bash, supporting wildcards.  Syntax similar to DOS - rename files via wildcards.
 
